@@ -1,0 +1,54 @@
+h1{
+	font-family: 'Montserrat', sans-serif;
+	color: #FFFFFF ;
+}
+h2{
+	font-family: 'Montserrat', sans-serif;
+	color: #0a065d ;
+}
+p, a{
+	font-family: "Lora", sans-serif;
+	color: #556093 ;
+}
+
+body{
+	text-align: center;
+	background-color: #FFF2F3 ;
+}
+
+a{
+	color: #496DDB;
+	text-decoration: none ;
+	background-color: #BA4A4A ;
+	
+}
+
+a:hover{
+	opacity: 0.7;
+}
+
+#banner{
+	text-align: center;
+	background-image: url("https://picsum.photos/1300/600/?image=218");
+	background-size: cover;
+	padding: 150px;
+}
+
+.card{
+  padding: 30px;
+  margin: 10px;
+  font-weight: lighter;
+}
+
+#footer{
+  padding: 30px;
+  margin: 10px;
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
